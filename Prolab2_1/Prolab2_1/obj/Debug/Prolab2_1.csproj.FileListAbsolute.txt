@@ -1,0 +1,40 @@
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.exe.config
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.exe
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.pdb
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csprojAssemblyReference.cache
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.Form1.resources
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.Properties.Resources.resources
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csproj.GenerateResource.cache
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csproj.CoreCompileInputs.cache
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.exe
+C:\Users\omera\source\repos\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.pdb
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csprojAssemblyReference.cache
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.Form1.resources
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.Properties.Resources.resources
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csproj.GenerateResource.cache
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.exe
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.pdb
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.exe.config
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.exe
+C:\Users\berat\OneDrive\Masaüstü\2.sınıf 2.dönem\EN SOOOONNNN\210202109last\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.pdb
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.exe.config
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.exe
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.pdb
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csprojAssemblyReference.cache
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.Form1.resources
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.Properties.Resources.resources
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csproj.GenerateResource.cache
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.exe
+C:\Users\james\Desktop\Prolab2_1\210202109last\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.pdb
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csprojAssemblyReference.cache
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.Form1.resources
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.Properties.Resources.resources
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csproj.GenerateResource.cache
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.exe
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\obj\Debug\Prolab2_1.pdb
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.exe.config
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.exe
+C:\Users\james\Desktop\Prolab2_1\Prolab2_1\bin\Debug\Prolab2_1.pdb
