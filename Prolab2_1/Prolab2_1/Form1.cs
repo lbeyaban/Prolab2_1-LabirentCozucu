@@ -147,12 +147,7 @@ namespace Prolab2_1
         {
             try
             {
-                string uygulamaDizini = Environment.CurrentDirectory;
-                string dosyaAdi = "111.jpg";
-                // Tam dosya yolu
-                Console.WriteLine("Uygulama dizini : " + uygulamaDizini);
-                //int boyut = Convert.ToInt16(boyuttxt.Text);
-                int boyut = 10;
+                int boyut = Convert.ToInt16(boyuttxt.Text);
                 Console.WriteLine("Boyut : " + boyut);
                 List<Tuple<int, int>> baslangicNoktalari = new List<Tuple<int, int>>();
                 Tuple<int, int> solustKose = Tuple.Create(0, 0);
